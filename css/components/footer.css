@@ -1,0 +1,24 @@
+.footer {
+  margin-top: 40px;
+  background-image:url(../../images/footer.jpg);
+  background-size: cover;
+  object-fit: center;
+  height: 150px;
+  color: white
+}
+
+.footer ul {
+  list-style:none;
+  display: inline-block;
+  margin: 0 auto;
+}
+.footer ul li {
+  font-size: 40px;
+  display: inline-block;
+  margin: 0 5px;
+}
+.socials {
+  display: flex;
+  align-items: center;
+  height: 100%
+}

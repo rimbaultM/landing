@@ -1,0 +1,11 @@
+.btn-medium {
+  background-color: red;
+  padding: 5px 15px;
+  border-radius: 5px;
+  color: white;
+}
+.btn-medium:hover {
+  background-color: white;
+  border: 1px solid red;
+  color: red;
+}
